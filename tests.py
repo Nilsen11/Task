@@ -44,11 +44,12 @@ class TestStringMethods(unittest.TestCase):
         self.assertEqual(email_anonim("john..doe@gmail.com abc-abc@abc.edu.co.uk", '#'),
                          'john..doe@gmail.com a#####c@abc.edu.co.uk')
         self.assertEqual(email_anonim("john.d.oe@gmail.com", '#'), 'j#######e@gmail.com')
+        self.assertEqual(email_anonim("john.d.oe@gmail.ua.com", '#'), 'j#######e@gmail.ua.com')
         self.assertEqual(email_anonim("jh@gmail.com", '#'), 'j#@gmail.com')
         self.assertEqual(email_anonim("j+h.ss@gmail.com", '#'), 'j####s@gmail.com')
 
     def test_phone(self):
-        self.assertEqual(phone_anonim(" +48 845 546 546", 'X', 3), ' +48 845 546 XXX')
+        self.assertEqual(phone_anonim(" +48 845 546 546", 'X', 4), ' +48 845 54X XXX')
         self.assertEqual(phone_anonim("Lorem +48 845 546 546 ipsum", 'X', 0),
                          'Lorem +48 845 546 546 ipsum')
         self.assertEqual(phone_anonim("Lorem ipsum", '#', 5), "Lorem ipsum")

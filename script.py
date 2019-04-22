@@ -1,8 +1,7 @@
 import re
 
 SKYPES = re.compile(r'\bskype:[a-zA-Z0-9]+')
-EMAILS = re.compile(
-    r'[a-zA-Z0-9][a-zA-Z0-9.+\-_]*[a-zA-Z0-9]@[a-zA-Z0-9][a-zA-Z0-9.+\-_]+\.[a-zA-Z0-9.+\-_]+[a-zA-Z0-9]\b')
+EMAILS = re.compile(r'[a-zA-Z0-9][a-zA-Z0-9.+\-_]*[a-zA-Z0-9]@[a-zA-Z0-9][a-zA-Z0-9.+\-_]+\.[a-zA-Z0-9.+\-_]+[a-zA-Z0-9]\b')
 PHONES = re.compile(r'\+\d{1,3}\s\d{3}\s\d{3}\s\d{3}\b')
 
 

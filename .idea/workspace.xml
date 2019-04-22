@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df3df979-24fc-4aee-9744-cd8f059e3370" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
-    </list>
+    <list default="true" id="df3df979-24fc-4aee-9744-cd8f059e3370" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
+            <state relative-caret-position="119">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
@@ -25,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
+            <state relative-caret-position="1030">
               <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
@@ -205,17 +202,11 @@
       <workItem from="1555842264661" duration="10518000" />
       <workItem from="1555867709832" duration="8314000" />
       <workItem from="1555916988279" duration="3308000" />
-      <workItem from="1555920931539" duration="5404000" />
+      <workItem from="1555920931539" duration="6206000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_tests_TestStringMethods_test_email - 2019.04.22 at 13h 03m 17s.xml">
-      <configuration name="Unittests for tests.TestStringMethods.test_email" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_tests_TestStringMethods_test_email - 2019.04.22 at 13h 04m 22s.xml">
-      <configuration name="Unittests for tests.TestStringMethods.test_email" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_tests_TestStringMethods_test_phone - 2019.04.22 at 13h 06m 49s.xml">
       <configuration name="Unittests for tests.TestStringMethods.test_phone" configurationId="tests" />
     </history-entry>
@@ -240,20 +231,25 @@
     <history-entry file="Unittests_for_tests_TestStringMethods_test_phone - 2019.04.22 at 13h 10m 51s.xml">
       <configuration name="Unittests for tests.TestStringMethods.test_phone" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_tests_py - 2019.04.22 at 13h 11m 33s.xml">
+      <configuration name="Unittests in tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_py - 2019.04.22 at 13h 11m 36s.xml">
+      <configuration name="Unittests in tests.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60581000" />
+    <option name="totallyTimeSpent" value="61383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4886059" visible="true" weight="0.35006973" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4886059" weight="0.35006973" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49262735" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,8 +257,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5113941" side_tool="true" visible="true" weight="0.35006973" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033512" side_tool="true" visible="true" weight="0.32914925" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4966488" visible="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49932975" weight="0.32914925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -378,7 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
+        <state relative-caret-position="1030">
           <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
@@ -388,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
+        <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
