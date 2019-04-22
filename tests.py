@@ -2,7 +2,7 @@ from script import email_anonim, phone_anonim, skype_user_anomin
 import unittest
 
 
-class TestStringMethods(unittest.TestCase):
+class TestAnonimFunctions(unittest.TestCase):
 
     def test_error(self):
         # Skype
